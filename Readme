@@ -1,0 +1,11 @@
+Đỗ Thành Đạt và Hà Minh Hải
+
+Phiên bản chạy jdk 1.8.0_181
+
+File chạy jar trong thư mục "dist"
+
+Cách chạy:
+
+- Mở commandline tại thư mục "dist"
+
+- gõ lệnh: java -jar DictionaryProgram.jar
